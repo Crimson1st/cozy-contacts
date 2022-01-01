@@ -69,7 +69,7 @@
     "cozy-realtime": "^3.13.0",
     "cozy-ui": "45.0.0-beta.4",
     "cozy-vcard": "^0.2.18",
-    "final-form": "4.10.0",
+    "final-form": "4.20.6",
     "final-form-arrays": "1.1.0",
     "fuse.js": "6.4.6",
     "lodash": "4.17.21",
