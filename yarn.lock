@@ -3563,10 +3563,10 @@ cozy-interapp@0.5.4:
   resolved "https://registry.yarnpkg.com/cozy-interapp/-/cozy-interapp-0.5.4.tgz#2573f1800f073c84c289267d04234954d88eae0c"
   integrity sha512-f0UaKpBkRUnIKgAWND0e1IwfTTINjizlgDmfQwX3aMyWp8t9wX0xkNFn53TSyKUoBUnfovrclS3hm9fngjEp7A==
 
-cozy-jobs-cli@^1.15.0:
-  version "1.16.4"
-  resolved "https://registry.yarnpkg.com/cozy-jobs-cli/-/cozy-jobs-cli-1.16.4.tgz#0b12938c98ce1348e8e33645b7c9885163c5285e"
-  integrity sha512-K2NF09IcorOM4NjCvzH2XGr893ErCB2Qd0FDLxp3/KVqUlYSR1AuZmpGaOz+/+0n/PzTjaZjs6mgsJ/tmkihwg==
+cozy-jobs-cli@1.16.6:
+  version "1.16.6"
+  resolved "https://registry.yarnpkg.com/cozy-jobs-cli/-/cozy-jobs-cli-1.16.6.tgz#f90063e2c4270e53ffcdb26bab859ffc217eb074"
+  integrity sha512-0TXDaAZpe9feDE2MgUOC2EIlBj9WRdbpXq7G89loYWfF2uSR06Xz8jB2RSGhVXKU3q0AY2aAd69J6qpDyQioCA==
   dependencies:
     "@pollyjs/adapter-node-http" "5.1.1"
     "@pollyjs/core" "5.1.1"
@@ -3578,16 +3578,16 @@ cozy-jobs-cli@^1.15.0:
     cli-highlight "2.1.11"
     commander "7.2.0"
     cozy-client "23.4.0"
-    cozy-konnector-libs "^4.43.0"
+    cozy-konnector-libs "^4.45.0"
     cozy-logger "1.7.0"
     open "8.2.1"
     pretty "2.0.0"
     strip-json-comments "3.1.1"
 
-cozy-konnector-libs@^4.43.0:
-  version "4.43.0"
-  resolved "https://registry.yarnpkg.com/cozy-konnector-libs/-/cozy-konnector-libs-4.43.0.tgz#c1d631caace0c965dab0080b7711ec6165000458"
-  integrity sha512-3/o6vypJm4pFWiZDaaKdbDdg11NCXnsaXUkgzH12X0lm4eIQnyon6MaDcBqr38dgAdaZf4JlST9+WpIxrmqXaw==
+cozy-konnector-libs@^4.45.0:
+  version "4.45.0"
+  resolved "https://registry.yarnpkg.com/cozy-konnector-libs/-/cozy-konnector-libs-4.45.0.tgz#ccee02726f8792790ce82ea06387c815611f18f7"
+  integrity sha512-7vIZ+Tzcua5P/SJk2f7tpOtYQJ6wGPxcUjraWdJjLELu+KnxHAi/HYOIc6OMXksMomZkEWul0njqazSVM2fpYA==
   dependencies:
     babel-runtime "^6.26.0"
     bluebird "^3.7.2"
